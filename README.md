@@ -53,34 +53,6 @@ Saytara revolutionizes store management by providing an intuitive platform for c
  
 <hr>
 
-
-### Flexcards
-With Flexcards, you can easily create, sell & redeem gift cards across all your physical stores and online channels seamlessly. 
-Flexcards help your business boost its sales by introducing new revenue channels & enhancing sales operations in existing ones!
-
-### Website Link:  https://demo.flexcards.darwinz.ai/
-### WebApp Link:  https://flexcards.darwinz.ai/#/auth
-<p><a href="https://play.google.com/store/apps/details?id=darwinz.ai.flexcard" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
- 
-<hr>
-
-
-### Flexmenus
-Unlock the full potential of your hospitality, business with our innovative digital menu and online ordering solutions.
-Get the data and analytics you need to optimize your menu engineering process and maximize your profitability.
-
-### Website Link:  https://demo.flexmenus.darwinz.ai/
- 
-<hr>
-
-### ZCard
-Zcard is a comprehensive discount program that provides up to 100% savings on medical services and a variety of other sectors like hospitality, retail, fitness, real estate, and entertainment. It's designed for individuals seeking to significantly reduce their expenses without sacrificing the quality of services received.
-
-<p><a href="https://play.google.com/store/apps/details?id=zcard.app.zcard" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
- 
-<hr>
-
-
 ### eTrade
 eTrade is a specialized platform designed for pilots to easily share flights and manage their flight schedules. Whether you need to switch a flight 
 to match your favorite vacation days.  
