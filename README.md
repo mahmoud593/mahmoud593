@@ -40,7 +40,7 @@ dima is trusted by 250+ professionals across top MENA enterprises and agencies.
 Marty is your go-to delivery app, bringing everything you need right to your doorstep — fast, easy, and reliable. Whether it's a meal from your favorite restaurant, a drink from a cozy café, or everyday essentials from the grocery store, Marty makes ordering effortless and secure.
 Track your order in real time from the moment you place it until it arrives at your door. Enjoy exclusive deals, multiple payment options, and 24/7 customer support — because we're always here when you need us.
 
-<p><a href="[https://play.google.com/store/apps/details?id=darwinz.ai.didagpt3](https://play.google.com/store/apps/details?id=com.fourm.marty&hl=en)" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>  <a href="https://apps.apple.com/eg/app/marty/id6759621448" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<p><a href="https://play.google.com/store/apps/details?id=com.fourm.marty" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>  <a href="https://apps.apple.com/eg/app/marty/id6759621448" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
 
