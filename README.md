@@ -51,28 +51,27 @@ WFI is one of the services of Watan First Human Resources Company, which is inte
  
 <hr>
 
+### سوقنا — Souqna
+Souqna is Mauritania's all-in-one classifieds app, making it easier than ever to buy and sell right from your phone — fast, simple, and secure.
+Whether you're looking for a car, a smartphone, real estate, or second-hand clothes and furniture, everything you need is in one place. 
+
+<p><a href="https://play.google.com/store/apps/details?id=com.fourm.souqna" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>  <a href="https://apps.apple.com/us/app/souqna-%D8%B3%D9%88%D9%82%D9%86%D8%A7/id6748286202" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+ 
+<hr>
+
+
+### GeniePT - AI personal Trainer
+Your AI-Powered Fitness Coach
+Personalized workouts, custom meal plans, and daily support — all in one smart app. Powered by AI, it tracks your progress, curates fitness articles just for you, and adapts to your journey every step of the way.
+Your goals. Your plan. Your results.
+<p><a href="https://play.google.com/store/apps/details?id=com.geniept2.geniept2" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>  <a href="https://apps.apple.com/eg/app/geniept-ai-personal-trainer/id6744561364" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+ 
+<hr>
+
 
 ### Saytara
 Saytara revolutionizes store management by providing an intuitive platform for controlling employees efficiently and effectively. With Saytara, store managers can seamlessly manage shifts, monitor employee performance in real-time.
 
 <p><a href="[https://play.google.com/store/apps/details?id=watan.app.wfi](https://play.google.com/store/apps/details?id=darwinz.ai.saytara.saytara)" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
- 
-<hr>
-
-### eTrade
-eTrade is a specialized platform designed for pilots to easily share flights and manage their flight schedules. Whether you need to switch a flight 
-to match your favorite vacation days.  
-
-<p><a href="[https://play.google.com/store/apps/details?id=com.receety.receety](https://play.google.com/store/apps/details?id=com.travel.travel_system)" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>  <a href="[https://apps.apple.com/app/receety/id6448748611](https://apps.apple.com/sa/app/etrade-flights/id6657992029)" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
- 
-<hr>
-
-
-### Fanchat
-FAN CHAT is a full communication application made for football fans around the world.
-A great combination of features includes chatting, blogging, forums, a gallery, uniform cheers, tournaments' top news, teams' fans' special rooms, and more.
-You can register with simple few steps or login directly using your Google or Facebook account.
-FAN CHAT gives coverage to the international championship as the World Cup 2022 in Qatar and other global football tournaments..
-<p><a href="[https://apps.apple.com/app/gas-plus/id1662697146](https://apps.apple.com/eg/app/soccer-fanchat/id6444244207)" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
  
 <hr>
