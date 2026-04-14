@@ -28,13 +28,19 @@
 <h2> Samples from my projects </h2>
 
 
-### didaGPT©
-Your Restaurant's Data, a Text Away,
-Innovating Restaurant Management with didaGPT© 
-Introducing didaGPT, a conversational AI feature within the dida© ecosystem, designed to empower restaurant owners with instant access to a wide range of insights and data. 
-didaGPT© trains on your restaurant's unique data and real performance daily so that its suggestions are truly built for your restaurant! Simply text your query and let didaGPT provide detailed, AI-driven responses.
+### dima
+dima is an AI-powered copilot built for brand managers, PR & marketing experts. Designed to deeply understand Arabic (including slang, dialects, and Franco-Arabic), dima helps you monitor, analyze, and act on conversations around your brand across traditional and social media platforms, in real-time.
+dima is trusted by 250+ professionals across top MENA enterprises and agencies.
 
 <p><a href="https://play.google.com/store/apps/details?id=darwinz.ai.didagpt3" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>  <a href="https://apps.apple.com/us/app/didagpt/id6477492861" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
+### dima
+dima is an AI-powered copilot built for brand managers, PR & marketing experts. Designed to deeply understand Arabic (including slang, dialects, and Franco-Arabic), dima helps you monitor, analyze, and act on conversations around your brand across traditional and social media platforms, in real-time.
+dima is trusted by 250+ professionals across top MENA enterprises and agencies.
+
+<p><a href="[https://play.google.com/store/apps/details?id=darwinz.ai.didagpt3](https://play.google.com/store/apps/details?id=com.fourm.marty&hl=en)" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>  <a href="https://apps.apple.com/eg/app/marty/id6759621448" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
 
