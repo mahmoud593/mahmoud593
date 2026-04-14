@@ -51,7 +51,7 @@ WFI is one of the services of Watan First Human Resources Company, which is inte
  
 <hr>
 
-### سوقنا — Souqna
+### Souqna
 Souqna is Mauritania's all-in-one classifieds app, making it easier than ever to buy and sell right from your phone — fast, simple, and secure.
 Whether you're looking for a car, a smartphone, real estate, or second-hand clothes and furniture, everything you need is in one place. 
 
@@ -72,6 +72,6 @@ Your goals. Your plan. Your results.
 ### Saytara
 Saytara revolutionizes store management by providing an intuitive platform for controlling employees efficiently and effectively. With Saytara, store managers can seamlessly manage shifts, monitor employee performance in real-time.
 
-<p><a href="[https://play.google.com/store/apps/details?id=watan.app.wfi](https://play.google.com/store/apps/details?id=darwinz.ai.saytara.saytara)" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
+<p><a href="https://play.google.com/store/apps/details?id=darwinz.ai.saytara.saytara" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
  
 <hr>
